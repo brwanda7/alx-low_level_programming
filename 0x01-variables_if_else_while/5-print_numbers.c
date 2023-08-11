@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - how to print 0 to 9 using while 
+ * main - how  Prints numbers from 0 to 9.
  *
  * Return: Always 0 (Success)
  */
@@ -11,9 +11,10 @@ int main(void)
 
 	while (i < 10)
 	{
-		printf("%d\n", i);
+		printf("%d", i);
 		i++;
 	}
-
+	printf("\n");
 	return (0);
 }
+
