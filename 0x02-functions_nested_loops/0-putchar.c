@@ -1,15 +1,17 @@
 #include "main.h"
 /**
- * main - Prints _putchar
+ * main - Prints _putcha
  * Return: 0 always
  */
 int main(void)
 {
-int i;
-char c[] = "_putchar";
-for (i = 0; i <= 7; i++)
+int n = 0;
+char y[] = "_putchar";
+
+while (n <= 7)
 {
-_putchar(c[i]);
+_putchar(y[n]);
+n++;
 }
 _putchar('\n');
 return (0);
