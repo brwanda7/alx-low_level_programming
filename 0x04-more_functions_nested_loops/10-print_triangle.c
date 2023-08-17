@@ -2,9 +2,8 @@
 
 /**
  * print_triangle - entry point
- * owned by Bwave/Bright Daniel
- * Description: Prints diagonals
- *@size: size of the triangle
+ * Description: Prints diagonalsa
+ *@size: size of the trianglea
  * Return: void
  */
 
