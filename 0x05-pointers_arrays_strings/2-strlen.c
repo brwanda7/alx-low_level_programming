@@ -2,8 +2,8 @@
 
 /**
  * _strlen - updates the value of the variable
- * @s - first char
- * Return: value of s
+ * @s : first charsas
+ * Return: value of @qc
  */
 int _strlen(char *s)
 {
