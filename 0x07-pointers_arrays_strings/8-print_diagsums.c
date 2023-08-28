@@ -9,7 +9,8 @@
  */
 void print_diagsums(int *a, int size)
 {
-int i,xaxis,yaxis;
+int i, xaxis, yaxis;
+
 xaxis = 0;
 yaxis = 0;
 for (i = 0; i < size; i++)
