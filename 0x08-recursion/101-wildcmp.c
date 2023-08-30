@@ -2,8 +2,8 @@
 
 /**
  * wildcmp - Compare two strings
- * @s1: pointer a 
- * @s2: pointer b 
+ * @s1: pointer a
+ * @s2: pointer b
  * Return: 0
  */
 
